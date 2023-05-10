@@ -29,4 +29,5 @@ function createMarkupInfo(country) {
 	refs.box.innerHTML = markup;
 }
 
+
 export { createMarkupList, createMarkupInfo };
