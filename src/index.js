@@ -1,4 +1,5 @@
 import './css/styles.css';
+
 import refs from './js/refs';
 import { fetchCountries } from './js/fetchCountries';
 import { createMarkupList, createMarkupInfo } from './js/createMarkup';
